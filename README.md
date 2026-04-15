@@ -4,4 +4,4 @@
 
 **This app stores your best score in local storage, so you can safely close it and come back later!**
 
-Link to the site (soon)
+[Link to the site](https://uwu-programming-uwu.github.io/timed-clicker/)
